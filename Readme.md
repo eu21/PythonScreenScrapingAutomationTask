@@ -1,4 +1,4 @@
-# Automate browser or any other GUI navigation for fun, for testing, for managing servers, for automating your job #
+# Automate browser or any other GUI navigation (for fun, for testing, for managing servers, for automating your job) #
 
 ----------
 
