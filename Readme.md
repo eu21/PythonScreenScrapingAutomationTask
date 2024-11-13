@@ -3,7 +3,7 @@
 ----------
 
 
-## The big list of possible tasks: ##
+## The big list of possible micro-tasks: ##
 
 - automatically connect to a router: use pyautogui to recognize when the connection is down based on an image pattern and then push the 'connect' button to re-establish the connection.
 
